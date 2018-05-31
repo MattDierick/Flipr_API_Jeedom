@@ -4,8 +4,8 @@ The python script can be used for Jeedom in order to retrieve Flipr information 
 
 Script Object to retrieve information from Flipr API
 
-<img align="center" src="Object_script_python.png" height="64">&nbsp;&nbsp;
+<img align="center" src="Object_script_python.png">&nbsp;&nbsp;
 
 Script Object to retrieve information from Chlorine
 
-<img align="center" src="Object_script_chlore.png" height="64">&nbsp;&nbsp;
+<img align="center" src="Object_script_chlore.png">&nbsp;&nbsp;
